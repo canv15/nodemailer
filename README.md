@@ -1,6 +1,7 @@
 # Nodemailer
 
 [![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)](https://nodemailer.com/about/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnodemailer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnodemailer?ref=badge_shield)
 
 Send e-mails from Node.js – easy as cake! 🍰✉️
 
@@ -43,3 +44,6 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 ### License
 
 Nodemailer is licensed under the **MIT license**
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fnodemailer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fnodemailer?ref=badge_large)
